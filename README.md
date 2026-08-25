@@ -3,7 +3,7 @@
 **Authors:** Ziming Wang, Shuxin Sun  
 **Advisor:** Hamza Djigal  
 **Institution:** Department of Computer Science, Wenzhou-Kean University (WKU)  
-**Cloud Demo:** [cloudscheduler.onrender.com]([https://cloudscheduler.onrender.com](https://cloudscheduler.onrender.com))
+**Cloud Demo:** [cloudscheduler.onrender.com]((https://cloudscheduler.onrender.com))
 
 ---
 
